@@ -1,0 +1,18 @@
+.active {
+  text-decoration: line-through;
+  color: #bbbbbb;
+}
+
+.Footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Footer h5 {
+  
+  margin: 0.5rem 0 0 0;
+}
+
+.Footer > button {
+  margin-right: 1.2rem;
+}
